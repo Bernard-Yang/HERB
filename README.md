@@ -11,6 +11,7 @@ This paper bridges the gap by analysing the regional bias learned by the pre-tra
 Figure 1: The Regional Likelihood in [bald] Dimen- sion Produced by RoBERTa.
 
 
-<div align=left>Run measureBias.sh for Robustness Study in Table 6.  
-  
-After conducting the prepareCity.py and prepareContinent.py, running calculateBiasVariant.py for measuring the bias score in Table 2.  
+<div align=left>Run measureBias.sh for measuring the bias score in Table 1.
+Replacing the file calculateBiasMeasure.py in measureBias.sh with calculateBiasVariant.py for the bias score in Table 2.
+Run ablationDesTopics.py for Ablation study in Table 3.
+Run measureBiasAbla.sh for Robustness Study in Table 6.  
