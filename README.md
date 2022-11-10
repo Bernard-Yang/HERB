@@ -12,4 +12,5 @@ Figure 1: The Regional Likelihood in [bald] Dimen- sion Produced by RoBERTa.
 
 
 <div align=left>Run measureBias.sh for measuring the bias score in Table 1.  
+  
 After conducting the prepareCity.py and prepareContinent.py, running calculateBiasVariant.py for measuring the bias score in Table 2.  
