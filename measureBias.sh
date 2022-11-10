@@ -1,5 +1,5 @@
-CUDA_VISIBLE_DEVICES=1 python prepareCity.py
-CUDA_VISIBLE_DEVICES=1 python prepareContinent.py
-CUDA_VISIBLE_DEVICES=1 python calculateBias.py
+CUDA_VISIBLE_DEVICES=1 python prepareCityMeasure.py
+CUDA_VISIBLE_DEVICES=1 python prepareContinentMeasure.py
+CUDA_VISIBLE_DEVICES=1 python calculateBiasMeasure.py
 
 
